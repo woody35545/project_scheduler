@@ -1,0 +1,35 @@
+{
+*name: b
+*start: 17.09.21.00.00
+*end: -
+*isdone: done
+*content: 내용변경 테스트
+}
+{
+*name: number
+*start: 12345678
+*end: 123456565
+*isdone: X
+*content: PDF FILES AND CODES NEED TO BE ATTATCHED
+}
+{
+*name: [AL02] MVC 패턴 구현
+*start: 12345678
+*end: 12345678
+*isdone: X
+*content: pdf 파일 및 코드 제출
+}
+{
+*name: 프로젝트 이름변경 테스트
+*start: adad
+*end: a
+*isdone: X
+*content: d
+}
+{
+*name: <SW**> teamproject1
+*start: asdasd
+*end: asd
+*isdone: X
+*content: asd
+}
